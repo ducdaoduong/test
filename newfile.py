@@ -1,0 +1,1 @@
+print("Xin chào Việt Nam")
